@@ -1,3 +1,24 @@
+##NFT MarketPlace On Polygon Blockchain 
+
+#Technology Used : 
+1. Frontend : Next.js
+2. Smart Contract : Solidity
+3. Node Provider : Alchemy
+4. Web3 Modal : For wallet integration 
+5. Hardhat : Development Enviroment 
+
+There are 4 sections : 
+1. Home : Here you can see all the nfts Listed for sell
+2. Create Dashboard : Here you can see all the nfts created by you 
+3. My-Assets : Here you can see all the nfts owned by you 
+4. Create nfts : You can list your nfts for sell 
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
