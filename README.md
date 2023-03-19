@@ -1,6 +1,6 @@
-##NFT MarketPlace On Polygon Blockchain 
+## NFT MarketPlace On Polygon Blockchain 
 
-#Technology Used : 
+# Technology Used : 
 1. Frontend : Next.js
 2. Smart Contract : Solidity
 3. Node Provider : Alchemy
